@@ -546,12 +546,12 @@ span.cloaked-e-mail:before {
   Header Start
 --*/
 header {
-  min-height: 120px;
+  min-height: 100px;
   background: #ffffff;
   padding: 20px 0; }
   @media (max-width: 992px) {
     header {
-      min-height: 120px; } }
+      min-height: 90px; } }
   header .navbar {
     margin-bottom: 0px;
     border: 0px; }
@@ -684,14 +684,14 @@ header .navbar-default .navbar-nav li a:hover {
           font-size: 75px; } }
       @media (max-width: 480px) {
         .slider .block h1 {
-          font-size: 68px; } }
+          font-size: 48px; } }
       @media (max-width: 400px) {
         .slider .block h1 {
-          font-size: 66px; } }
+          font-size: 45px; } }
     .slider .block p {
       margin-bottom: 30px;
       color: #b5b5b5;
-      font-size: 35px;
+      font-size: 30px;
       line-height: 1.5em;
       font-weight: 300; }
       @media (max-width: 480px) {

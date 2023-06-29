@@ -5,7 +5,7 @@ favicon = "images/favi.png"
 logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "350px"
+logo_width = "250px"
 # logo text will only show when logo is missing.
 logo_text = "Tecnofluid S.A.S."
 # navbar fixed to top

@@ -3,9 +3,9 @@
 --*/
 
 header {
-  min-height: 120px;
+  min-height: 100px;
   @include desktop {
-    min-height: 120px;
+    min-height: 90px;
   }
   background: $white;
   padding: 20px 0;
