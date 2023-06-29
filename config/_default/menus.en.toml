@@ -1,0 +1,83 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = ""
+weight = 1
+
+[[main]]
+name = "Nosotros"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Empresas aliadas"
+url = "project/"
+weight = 3
+
+
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 4
+
+#[[main]]
+#weight = 5
+#name = "Más"
+#hasChildren = true
+
+#  [[main]]
+#  parent = "Más"
+#  name = "Servicios"
+#  url = "service/"
+#  weight = 1
+
+#  [[main]]
+#  parent = "Más"
+#  name = "Precios"
+#  url = "pricing/"
+#  weight = 2
+
+#  [[main]]
+#  parent = "Más"
+#  name = "FAQ"
+#  url = "faq/"
+#  weight = 3
+  
+[[main]]
+name = "Contacto"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "Nosotros"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Empresas aliadas"
+url = "project/"
+weight = 3
+
+#[[footer]]
+#name = "Servicios"
+#url = "service/"
+#weight = 4
+
+#[[footer]]
+#name = "Precios"
+#url = "pricing/"
+#weight = 5
+
+#[[footer]]
+#name = "FAQ"
+#url = "faq/"
+#weight = 6
+
+[[footer]]
+name = "Contacto"
+url = "contact/"
+weight = 7
