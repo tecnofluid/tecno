@@ -61,17 +61,13 @@ funfacts:
   # funfacts item loop
   - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
     name : "Proyectos completados"
-    count : "80"
+    count : "34"
 
   # funfacts loop
   - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
     name : "Clientes satisfechos"
-    count : "70"
+    count : "25"
 
-  # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Premios ganados"
-    count : "10"
 
   testimonial_slider:
   # testimonial item loop
