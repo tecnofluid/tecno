@@ -23,7 +23,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jpg"
+  bg_image: "images/feature2.jpg"
   title: "Que hacemos"
   content: "En nuestra empresa, ofrecemos servicios de automatización a medida para todo tipo de sectores y negocios. Nuestro equipo de expertos analiza las necesidades específicas de cada cliente y diseña soluciones personalizadas que se integran con sus sistemas existentes y les permiten mejorar su productividad, calidad, seguridad y satisfacción. 
   
