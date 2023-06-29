@@ -44,7 +44,7 @@ en Colombia, Venezuela y Ecuador con reposición de equipo en servicio de manten
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Somos una empresa innovadora"
   feature_item:
   # feature item loop
   #- icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
