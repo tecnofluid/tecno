@@ -46,7 +46,7 @@ cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "Nosotros ofrecemos la mejor experiencia"
-  content: "Si desea conocer más sobre nuestros servicios de automatización y cómo pueden ayudarle a impulsar su negocio, no dude en contactarnos. Estaremos encantados de atenderle y ofrecerle una propuesta sin compromiso."
+  content: "Si deseas conocer más sobre nuestros servicios de automatización y cómo pueden ayudarte a impulsar su negocio, no dudes en contactarnos. Estaremos encantados de atenderte y ofrecerte una propuesta sin compromiso."
   button:
     enable: true
     label: "Contáctanos"
@@ -56,7 +56,7 @@ cta:
 funfacts:
   enable: true
   title: "Nuestros servicios"
-  description: "'Nuestros servicios de automatización han sido utilizados por cientos de clientes satisfechos, que han podido comprobar los beneficios que aportan a sus negocios'"
+  description: "'Los testimonios de clientes satisfechos son una herramienta poderosa para demostrar el valor de nuestros productos y servicios. A continuación, presentamos algunos ejemplos de cómo nuestros clientes han logrado sus objetivos gracias a nuestra colaboración.'"
   funfact_item:
   # funfacts item loop
   - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
@@ -71,15 +71,15 @@ funfacts:
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
+  - name: ""
+    image: "images/clients/Bl.png"
+    designation: ""
     content: "Nuestros servicios de automatización han sido utilizados por cientos de clientes satisfechos, que han podido comprobar los beneficios que aportan a sus negocios."
 
   # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
+  - name: ""
+    image: "images/clients/Bl.png"
+    designation: ""
     content: "La automatización nos ha permitido mejorar la calidad de nuestros productos, al eliminar los errores humanos y los defectos de fabricación. Además, hemos ahorrado costes en mano de obra y energía."
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Empresas aliadas"
-description: "Estos son algunas empresas aliadas que nos porveen de partes necesarias para el desarrollo de la automatización en las empresas"
+description: "Estas son algunas empresas aliadas que nos proveen de partes necesarias para el desarrollo de la automatización en los proyectos que hemos participado en empresas reconocidas"
 draft: false
 bg_image: "images/enterprise.jpg"
 ---
